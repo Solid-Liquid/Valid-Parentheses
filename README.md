@@ -4,7 +4,7 @@ This is my Python Solution to LeetCode: Valid Parentheses
 https://leetcode.com/problems/valid-parentheses/
 
 <pre>
-**20. Valid Parentheses**
+20. Valid Parentheses
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:
